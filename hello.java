@@ -3,6 +3,6 @@ public class hello{
 	{
 		system.out.println("hello world");
 		system.out.println("tumkur");
-		system.out.println("banglore");
+		system.out.println("banglore" spt tumkur);
 	}
 }
